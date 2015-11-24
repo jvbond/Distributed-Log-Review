@@ -34,6 +34,7 @@ NOTES:
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 Remote_Log_Collector.ps1 is not configured for first run!
+
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 Script is configured to query custom log created by log collection script. It is also configured to collect log data from the last time the remote collection was run. This is dependant on the script writing an event to the custom event log.
