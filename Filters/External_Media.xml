@@ -1,0 +1,21 @@
+<Family>
+ <ID>External Media</ID>
+  <event>
+    <ID>43</ID>
+    <Name>New Device Information</Name>
+    <LogName>Microsoft-Windows-USB-USBHUB3-Analytic</LogName>
+    <Provider>Microsoft-Windows-USB-USBHUB3</Provider>
+  </event>
+  <event>
+    <ID>400</ID>
+    <Name>New Mass Storage Installation</Name>
+    <LogName>Microsoft-Windows-Kernel-PnP/Configuration</LogName>
+    <Provider>Microsoft-Windows-Kernel-PnP</Provider>
+  </event>
+  <event>
+    <ID>410</ID>
+    <Name>New Mass Storage Installation</Name>
+    <LogName>Microsoft-Windows-Kernel-PnP/Configuration</LogName>
+    <Provider>Microsoft-Windows-Kernel-PnP</Provider>
+  </event>
+</Family>

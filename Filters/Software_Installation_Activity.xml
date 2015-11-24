@@ -1,0 +1,39 @@
+<Family>
+ <ID>Software and Service Installation</ID>
+  <event>
+    <ID>6</ID>
+    <Name>New Kernel Filter Driver</Name>
+    <LogName>System</LogName>
+    <Provider>Microsoft-Windows-FilterManager</Provider>
+  </event>
+  <event>
+    <ID>7045</ID>
+    <Name>New Windows Service</Name>
+    <LogName>System</LogName>
+    <Provider>Service Control Manager</Provider>
+  </event>
+  <event>
+    <ID>1022</ID>
+    <Name>New MSI File Installed</Name>
+    <LogName>Application</LogName>
+    <Provider>MsiInstaller</Provider>
+  </event>
+  <event>
+    <ID>1033</ID>
+    <Name>New MSI File Installed</Name>
+    <LogName>Application</LogName>
+    <Provider>MsiInstaller</Provider>
+  </event>
+  <event>
+    <ID>903</ID>
+    <Name>New Application Installation</Name>
+    <LogName>Microsoft-Windows-Application-Experience/Program-Inventory</LogName>
+    <Provider>Microsoft-Windows-Application-Experience</Provider>
+  </event>
+  <event>
+    <ID>800</ID>
+    <Name>Summary of Software Activities</Name>
+    <LogName>Microsoft-Windows-Application-Experience/Program-Inventory</LogName>
+    <Provider>Microsoft-Windows-Application-Experience</Provider>
+  </event>
+</Family>

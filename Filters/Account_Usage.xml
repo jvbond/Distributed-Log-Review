@@ -1,0 +1,63 @@
+<Family>
+ <ID>Account Usage</ID>
+  <event>
+    <ID>4740</ID>
+    <Name>Account Lockouts </Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4728</ID>
+    <Name>User Added to Privileged Group</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4732</ID>
+    <Name>User Added to Privileged Group</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4756</ID>
+    <Name>User Added to Privileged Group</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4735</ID>
+    <Name>Security-Enabled group Modification</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4624</ID>
+    <Name>Successful User Account Login</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4625</ID>
+    <Name>Failed User Account Login</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4648</ID>
+    <Name>Account Login with Explicit Credentials</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4672</ID>
+    <Name>Special Privileges Assigned to New Logon</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4647</ID>
+    <Name>User Initiated Logoff</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+</Family>

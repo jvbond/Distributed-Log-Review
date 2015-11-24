@@ -1,0 +1,57 @@
+<Family>
+ <ID>Kernel Driver Signing</ID>
+  <event>
+    <ID>5038</ID>
+    <Name>Detected an invalid image hash of a file</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>6281</ID>
+    <Name>Detected an invalid page hash of an image file</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>3001</ID>
+    <Name>Code Integrity Check</Name>
+    <LogName>Microsoft-Windows-CodeIntegrity/Operational</LogName>
+    <Provider>Microsoft-Windows-CodeIntegrity</Provider>
+  </event>
+  <event>
+    <ID>3002</ID>
+    <Name>Code Integrity Check</Name>
+    <LogName>Microsoft-Windows-CodeIntegrity/Operational</LogName>
+    <Provider>Microsoft-Windows-CodeIntegrity</Provider>
+  </event>
+  <event>
+    <ID>3003</ID>
+    <Name>Code Integrity Check</Name>
+    <LogName>Microsoft-Windows-CodeIntegrity/Operational</LogName>
+    <Provider>Microsoft-Windows-CodeIntegrity</Provider>
+  </event>
+  <event>
+    <ID>3004</ID>
+    <Name>Code Integrity Check</Name>
+    <LogName>Microsoft-Windows-CodeIntegrity/Operational</LogName>
+    <Provider>Microsoft-Windows-CodeIntegrity</Provider>
+  </event>
+  <event>
+    <ID>3010</ID>
+    <Name>Code Integrity Check</Name>
+    <LogName>Microsoft-Windows-CodeIntegrity/Operational</LogName>
+    <Provider>Microsoft-Windows-CodeIntegrity</Provider>
+  </event>
+  <event>
+    <ID>3023</ID>
+    <Name>Code Integrity Check</Name>
+    <LogName>Microsoft-Windows-CodeIntegrity/Operational</LogName>
+    <Provider>Microsoft-Windows-CodeIntegrity</Provider>
+  </event>
+  <event>
+    <ID>219</ID>
+    <Name>PnP Device Driver Failed to Load</Name>
+    <LogName>Microsoft-Windows-Kernel-PnP/Configuration</LogName>
+    <Provider>Microsoft-Windows-Kernel-PNP</Provider>
+  </event>
+</Family>

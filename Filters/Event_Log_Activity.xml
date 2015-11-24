@@ -1,0 +1,21 @@
+<Family>
+ <ID>Event Log Activity</ID>
+  <event>
+    <ID>104</ID>
+    <Name>Event Log was Cleared</Name>
+    <LogName>System</LogName>
+    <Provider>Microsoft-Windows-Eventlog</Provider>
+  </event>
+  <event>
+    <ID>1102</ID>
+    <Name>Audit Log was Cleared</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Eventlog</Provider>
+  </event>
+  <event>
+    <ID>1100</ID>
+    <Name>Event Log Service Shutdown</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Eventlog</Provider>
+  </event>
+</Family>

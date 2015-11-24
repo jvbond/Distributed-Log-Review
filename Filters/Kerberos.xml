@@ -1,0 +1,21 @@
+<Family>
+ <ID>Kerberos</ID>
+  <event>
+    <ID>4771</ID>
+    <Name>Kerberos Pre-Authentication Failure</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4772</ID>
+    <Name>Kerberos Authentication Ticket Failed</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4773</ID>
+    <Name>Kerberos Service Ticket Request Failed</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+</Family>

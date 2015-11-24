@@ -1,0 +1,21 @@
+<Family>
+ <ID>Group Policy Processing</ID>
+  <event>
+    <ID>1025</ID>
+    <Name>Internal Error</Name>
+    <LogName>System</LogName>
+    <Provider>Microsoft-Windows-GroupPolicy</Provider>
+  </event>
+  <event>
+    <ID>1027</ID>
+    <Name>Generic Internal Error</Name>
+    <LogName>System</LogName>
+    <Provider>Microsoft-Windows-GroupPolicy</Provider>
+  </event>
+  <event>
+    <ID>1029</ID>
+    <Name>Group Policy Application Failed due to Connectivity</Name>
+    <LogName>System</LogName>
+    <Provider>Microsoft-Windows-GroupPolicy</Provider>
+  </event>
+</Family>

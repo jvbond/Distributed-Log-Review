@@ -1,0 +1,63 @@
+<Family>
+ <ID>Other Assorted Events</ID>
+  <event>
+    <ID>4649</ID>
+    <Name>Kerberos Replay Attack</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4657</ID>
+    <Name>Registry Value Modified</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4670</ID>
+    <Name>Object Permission Change</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4742</ID>
+    <Name>Computer Account Change</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4778</ID>
+    <Name>Session Reconnection</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4782</ID>
+    <Name>Account Password Hash Access</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4817</ID>
+    <Name>Object Audit Settings Changed</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4777</ID>
+    <Name>DC Failed to Validate Credentials</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4674</ID>
+    <Name>Operation was Attempted on Privileged Object</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+  <event>
+    <ID>4615</ID>
+    <Name>Invalid Use of LPC port</Name>
+    <LogName>Security</LogName>
+    <Provider>Microsoft-Windows-Security-Auditing</Provider>
+  </event>
+</Family>

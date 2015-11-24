@@ -1,0 +1,105 @@
+<Family>
+ <ID>Mobile Device Activities</ID>
+  <event>
+    <ID>10000</ID>
+    <Name>Network Connection Status</Name>
+    <LogName>Microsoft-Windows-NetworkProfile/Operational</LogName>
+    <Provider>Microsoft-Windows-NetworkProfile</Provider>
+  </event>
+  <event>
+    <ID>10001</ID>
+    <Name>Network Connection Status</Name>
+    <LogName>Microsoft-Windows-NetworkProfile/Operational</LogName>
+    <Provider>Microsoft-Windows-NetworkProfile</Provider>
+  </event>
+  <event>
+    <ID>8000</ID>
+    <Name>Starting Wireless Connection</Name>
+    <LogName>Microsoft-Windows-WLAN-AutoConfig/Operational</LogName>
+    <Provider>Microsoft-Windows-WLAN-AutoConfig</Provider>
+  </event>
+  <event>
+    <ID>8011</ID>
+    <Name>Starting Wireless Connection</Name>
+    <LogName>Microsoft-Windows-WLAN-AutoConfig/Operational</LogName>
+    <Provider>Microsoft-Windows-WLAN-AutoConfig</Provider>
+  </event>
+  <event>
+    <ID>8001</ID>
+    <Name>Connected to Wireless Connection</Name>
+    <LogName>Microsoft-Windows-WLAN-AutoConfig/Operational</LogName>
+    <Provider>Microsoft-Windows-WLAN-AutoConfig</Provider>
+  </event>
+  <event>
+    <ID>8003</ID>
+    <Name>Disconnected From Wireless Connection</Name>
+    <LogName>Microsoft-Windows-WLAN-AutoConfig/Operational</LogName>
+    <Provider>Microsoft-Windows-WLAN-AutoConfig</Provider>
+  </event>
+  <event>
+    <ID>11000</ID>
+    <Name>Wireless Association Status</Name>
+    <LogName>Microsoft-Windows-WLAN-AutoConfig/Operational</LogName>
+    <Provider>Microsoft-Windows-WLAN-AutoConfig</Provider>
+  </event>
+  <event>
+    <ID>11001</ID>
+    <Name>Wireless Association Status</Name>
+    <LogName>Microsoft-Windows-WLAN-AutoConfig/Operational</LogName>
+    <Provider>Microsoft-Windows-WLAN-AutoConfig</Provider>
+  </event>
+  <event>
+    <ID>11002</ID>
+    <Name>Wireless Association Status</Name>
+    <LogName>Microsoft-Windows-WLAN-AutoConfig/Operational</LogName>
+    <Provider>Microsoft-Windows-WLAN-AutoConfig</Provider>
+  </event>
+  <event>
+    <ID>11004</ID>
+    <Name>Wireless Security Status</Name>
+    <LogName>Microsoft-Windows-WLAN-AutoConfig/Operational</LogName>
+    <Provider>Microsoft-Windows-WLAN-AutoConfig</Provider>
+  </event>
+  <event>
+    <ID>11005</ID>
+    <Name>Wireless Security Status</Name>
+    <LogName>Microsoft-Windows-WLAN-AutoConfig/Operational</LogName>
+    <Provider>Microsoft-Windows-WLAN-AutoConfig</Provider>
+  </event>
+  <event>
+    <ID>11010</ID>
+    <Name>Wireless Security Status</Name>
+    <LogName>Microsoft-Windows-WLAN-AutoConfig/Operational</LogName>
+    <Provider>Microsoft-Windows-WLAN-AutoConfig</Provider>
+  </event>
+  <event>
+    <ID>11006</ID>
+    <Name>Wireless Security Status</Name>
+    <LogName>Microsoft-Windows-WLAN-AutoConfig/Operational</LogName>
+    <Provider>Microsoft-Windows-WLAN-AutoConfig</Provider>
+  </event>
+  <event>
+    <ID>8002</ID>
+    <Name>Wireless Connection Failed</Name>
+    <LogName>Microsoft-Windows-WLAN-AutoConfig/Operational</LogName>
+    <Provider>Microsoft-Windows-WLAN-AutoConfig</Provider>
+  </event>
+  <event>
+    <ID>12011</ID>
+    <Name>Wireless Authentication Status</Name>
+    <LogName>Microsoft-Windows-WLAN-AutoConfig/Operational</LogName>
+    <Provider>Microsoft-Windows-WLAN-AutoConfig</Provider>
+  </event>
+  <event>
+    <ID>12012</ID>
+    <Name>Wireless Authentication Status</Name>
+    <LogName>Microsoft-Windows-WLAN-AutoConfig/Operational</LogName>
+    <Provider>Microsoft-Windows-WLAN-AutoConfig</Provider>
+  </event>
+  <event>
+    <ID>12013</ID>
+    <Name>Wireless Authentication Status</Name>
+    <LogName>Microsoft-Windows-WLAN-AutoConfig/Operational</LogName>
+    <Provider>Microsoft-Windows-WLAN-AutoConfig</Provider>
+  </event>
+</Family>

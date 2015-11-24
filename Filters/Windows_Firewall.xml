@@ -1,0 +1,32 @@
+<Family>
+ <ID>Firewall</ID>
+  <event>
+    <ID>2004</ID>
+    <Name>Firewall Rule Add</Name>
+    <LogName>Microsoft-Windows-Windows Firewall With Advanced Security/Firewall</LogName>
+    <Provider>Microsoft-Windows-Windows Firewall With Advanced Security</Provider>
+  </event>
+  <event>
+    <ID>2005</ID>
+    <Name>Firewall Rule Change</Name>
+    <LogName>Microsoft-Windows-Windows Firewall With Advanced Security/Firewall</LogName>
+    <Provider>Microsoft-Windows-Windows Firewall With Advanced Security</Provider>
+  </event>
+  <event>
+    <ID>2006</ID>
+    <Name>Firewall Rule Deleted</Name>
+    <LogName>Microsoft-Windows-Windows Firewall With Advanced Security/Firewall</LogName>
+    <Provider>Microsoft-Windows-Windows Firewall With Advanced Security</Provider>
+  </event>
+  <event>
+    <ID>2033</ID>
+    <Name>Firewall Rule Deleted</Name>
+    <LogName>Microsoft-Windows-Windows Firewall With Advanced Security/Firewall</LogName>
+    <Provider>Microsoft-Windows-Windows Firewall With Advanced Security</Provider>
+  </event><event>
+    <ID>2009</ID>
+    <Name>Firewall Failed To Load Group Policy</Name>
+    <LogName>Microsoft-Windows-Windows Firewall With Advanced Security/Firewall</LogName>
+    <Provider>Microsoft-Windows-Windows Firewall With Advanced Security</Provider>
+  </event>  
+</Family>

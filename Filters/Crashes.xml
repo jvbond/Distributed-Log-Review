@@ -1,0 +1,15 @@
+<Family>
+ <ID>Crashes</ID>
+  <event>
+    <ID>1000</ID>
+    <Name>App Error</Name>
+    <LogName>Application</LogName>
+    <Provider>Application Error</Provider>
+  </event>
+  <event>
+    <ID>1001</ID>
+    <Name>BSOD</Name>
+    <LogName>System</LogName>
+    <Provider>Microsoft-Windows-WER-SystemErrorReporting</Provider>
+  </event>
+</Family>
